@@ -1,0 +1,5 @@
+"Tras entregar este portafolio, me surgen algunas dudas sobre la implementación técnica:
+-Compatibilidad: Me preocupa si el formato de color LCH se visualiza correctamente en todos los navegadores.
+-Estructura: No estoy segura de si la jerarquía de etiquetas (h2, h3) es la más óptima para la semántica del sitio.
+-Rutas: Me genera inseguridad que las imágenes no carguen por la sensibilidad de GitHub a las mayúsculas o extensiones.
+-Funcionalidad: Me pregunto si el diseño actual refleja fielmente mis habilidades en UI/UX o si es demasiado simplificado."
